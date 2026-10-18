@@ -14,23 +14,23 @@ return [
     /* ---- Contact Details ------------------------------------------ */
 
     // Primary email where all enquiries are delivered
-    'recipient_email'  => 'info@yourcompany.com',
+    'recipient_email'  => 'edadmin@gasai.in',
 
     // Name shown in the From: header of outgoing emails
     'sender_name'      => 'Green Automation Solution',
 
     // Reply-to / sender email (should be a valid address on your domain)
-    'sender_email'     => 'noreply@yourcompany.com',
+    'sender_email'     => 'edadmin@gasai.in',
 
     // Company phone number (shown in auto-reply emails)
-    'phone'            => '+91 00000 00000',
+    'phone'            => '+91 95140 07777',
 
     // WhatsApp number with country code, no spaces or dashes
     // Example: 919876543210 (for India +91 98765 43210)
-    'whatsapp'         => '919876543210',
+    'whatsapp'         => '919514007777',
 
     // Company address (shown in auto-reply emails and footer)
-    'address'          => 'Neyveli, Tamil Nadu, India',
+    'address'          => '108, Hospital St, Kurinjipadi, Tamil Nadu 607302',
 
     // Social media URLs (set to '' to hide)
     'social_facebook'  => 'https://facebook.com/greenautomationsolution',
