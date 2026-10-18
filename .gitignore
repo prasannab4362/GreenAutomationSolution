@@ -1,0 +1,21 @@
+# Sensitive configuration — never commit this
+config.php
+
+# Enquiry and rate-limit logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
